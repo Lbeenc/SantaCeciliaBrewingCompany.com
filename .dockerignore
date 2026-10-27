@@ -1,0 +1,13 @@
+# Keep the container build fast and clean: only source goes in, never local
+# build output, dependencies, email sign-ups, or secrets.
+.git
+.claude
+**/node_modules
+**/bin
+**/obj
+server/SantaCecilia.Api/wwwroot
+server/SantaCecilia.Api/App_Data
+**/*.env
+**/appsettings.*.local.json
+.vs
+.vscode
