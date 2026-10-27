@@ -1,0 +1,103 @@
+{
+  "site": {
+    "brewerName": "Timothy Been",
+    "town": "[HighRidge, Missouri]",
+    "brewingSince": null,
+    "batchSizeGallons": null,
+    "nextBrewDay": null,
+    "brewerStory": "[How he got started brewing at home, in his own words.]\n\n[A paragraph or two: the first batch, the ones that didn't work out, what he's trying next, and where the name Santa Cecilia comes from.]",
+    "brewerQuote": "[Something he always says about beer.]"
+  },
+  "batches": [
+    {
+      "number": 5,
+      "name": "[Beer name]",
+      "style": "Oatmeal Stout",
+      "abv": null,
+      "ibu": null,
+      "color": "#3A2416",
+      "stage": "planned",
+      "brewedOn": null,
+      "packagedOn": null,
+      "plannedFor": null,
+      "notes": null
+    },
+    {
+      "number": 4,
+      "name": "[Beer name]",
+      "style": "Belgian Dubbel",
+      "abv": null,
+      "ibu": null,
+      "color": "#7A3B1A",
+      "stage": "fermenting",
+      "brewedOn": null,
+      "packagedOn": null,
+      "plannedFor": null,
+      "notes": null
+    },
+    {
+      "number": 3,
+      "name": "[Beer name]",
+      "style": "Czech Pilsner",
+      "abv": null,
+      "ibu": null,
+      "color": "#E3C46A",
+      "stage": "conditioning",
+      "brewedOn": null,
+      "packagedOn": null,
+      "plannedFor": null,
+      "notes": null
+    },
+    {
+      "number": 2,
+      "name": "[Beer name]",
+      "style": "Amber Ale",
+      "abv": null,
+      "ibu": null,
+      "color": "#B5651D",
+      "stage": "ready",
+      "brewedOn": null,
+      "packagedOn": null,
+      "plannedFor": null,
+      "notes": "[Tasting notes]"
+    },
+    {
+      "number": 1,
+      "name": "[Beer name]",
+      "style": "Hazy IPA",
+      "abv": null,
+      "ibu": null,
+      "color": "#E9B949",
+      "stage": "ready",
+      "brewedOn": null,
+      "packagedOn": null,
+      "plannedFor": null,
+      "notes": "[Tasting notes]"
+    }
+  ],
+  "events": [
+    {
+      "id": "weihnachtsmarkt-2026",
+      "name": "Weihnachtsmarkt – Christmas Market",
+      "date": "2026-12-05",
+      "month": "2026-12",
+      "startTime": null,
+      "endTime": null,
+      "venue": "Timothy Lutheran Church",
+      "address": "6704 Fyler Ave, St. Louis, MO 63139",
+      "booth": null,
+      "tickets": "Details at timothystl.org",
+      "url": "https://timothystl.org/",
+      "pouring": []
+    }
+  ],
+  "logbook": [
+    {
+      "number": 1,
+      "date": "2026-10-01",
+      "tag": "Brew day",
+      "title": "[Title of a brew-day write-up]",
+      "excerpt": "[One-line summary of the entry.]"
+    }
+  ]
+}
